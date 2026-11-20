@@ -35,4 +35,4 @@ a = 10
 b = 3
 
 ejercicio = ((a + b) * (a - b) / (a * b)) - ((a ** b) % 3)
-print(f"El resultado del ejercicio es: {ejercicio}")  # 1.1
+print(f"El resultado del ejercicio es: {ejercicio}")  # 1.1 
